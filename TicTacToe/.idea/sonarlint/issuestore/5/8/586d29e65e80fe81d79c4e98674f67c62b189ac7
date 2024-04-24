@@ -1,0 +1,15 @@
+
+z	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8‡÷å÷ð1
+7
+java:S1220""Move this file to a named package.8Ðóâ÷ð1
+G	java:S106	"+Replace this use of System.out by a logger.(™Û¶8‚ôâ÷ð1
+L	java:S106"+Replace this use of System.out by a logger.(ÚŒù²ùÿÿÿÿ8ƒôâ÷ð1
+G	java:S106"+Replace this use of System.out by a logger.(ÅµþÐ8ƒôâ÷ð1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8„ôâ÷ð1
+G	java:S106"+Replace this use of System.out by a logger.(™Û¶8„ôâ÷ð1
+>
+java:S16597"!Declare "col" on a separate line.(ãÜòœ8‡ôâ÷ð1
+G	java:S106:"+Replace this use of System.out by a logger.(èþ©š8‹ôâ÷ð1
+G	java:S106B"+Replace this use of System.out by a logger.(«¤†°8É÷å÷ð1
+L	java:S106E"+Replace this use of System.out by a logger.(Ç†´¼øÿÿÿÿ8É÷å÷ð1
+G	java:S106J"+Replace this use of System.out by a logger.(ŸÐßò8Ë÷å÷ð1
